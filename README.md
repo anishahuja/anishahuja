@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm a developer<br>i'm a student<br>pursing btech cse
+i'm a developer<br>i'm a student<br>
 
 
 ## 🌐 Socials:
